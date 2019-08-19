@@ -1,0 +1,3 @@
+com\pinyougou\search\activemq\listener\SolrItemDeleteMessageListener.class
+com\pinyougou\search\service\impl\ItemSearchServiceImpl.class
+com\pinyougou\search\activemq\listener\SolrItemQueueMessageListener.class
